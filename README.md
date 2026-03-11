@@ -1,4 +1,4 @@
-# hoy
+# Hoy
 Hoy font
 
 ![Image](documentation/image1.png)
